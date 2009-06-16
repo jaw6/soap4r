@@ -3,8 +3,8 @@
 
 require 'rubygems'
 SPEC = Gem::Specification.new do |s|
-  s.name = "soap4r-spox"
-  s.version = "1.5.8.1"
+  s.name = "soap4r"
+  s.version = "1.5.8.3"
   s.date = "2009-04-28"
   s.author = "NAKAMURA, Hiroshi (modifier: spox)"
   s.email = "nahi@ruby-lang.org"
